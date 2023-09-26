@@ -1,0 +1,12 @@
+[package]
+name = "leakageDetection"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ndarray = "0.15.6"
+ndarray-npy = "0.8.1"
+indicatif = "0.17.7"
+rayon = "1.7.0"
